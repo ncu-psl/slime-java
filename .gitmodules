@@ -1,0 +1,3 @@
+[submodule "doc/thesis/template"]
+	path = doc/thesis/template
+	url = https://github.com/sppmg/TW_Thesis_Template/
